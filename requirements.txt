@@ -1,0 +1,7 @@
+ requests
+ customtkinter as ctk
+ tkintermapview as tkmp
+ threading
+ socket
+from scapy.all import IP,ICMP
+from urllib.parse import urlparse
